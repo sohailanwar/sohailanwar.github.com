@@ -9,10 +9,10 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : eWork Website in Jekyll
+title : eWork
 tagline: Short hand techniques
 author :
-  name : Sohail Anwar
+  name : Cogilent Solutions
   email : s.anwar@cogilent.com
   github : sohailanwar
 #  twitter : username
